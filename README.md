@@ -28,3 +28,12 @@ Python • R • KNIME • pandas • tidyverse • scikit-learn • ggplot2 •
 - Data Science roles
 - Healthcare analytics roles
 - Behavioral and applied research positions
+
+
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-0072B2?style=flat&logo=knime&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
