@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lourdes 👋
 
-<!--
-**Minikira85/Minikira85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist / Behavioral Data Science | Healthcare analytics | Python, R, KNIME | Clinical lab background + MSc**
 
-Here are some ideas to get you started:
+I’m passionate about using data to improve healthcare and support better decisions. My background combines clinical laboratory experience, psychology, and data science, which gives me a practical and human perspective on data work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I enjoy
+- Analyzing health and behavioral data
+- Building clean, reproducible workflows
+- Creating visualizations and dashboards
+- Learning from real-world data
+
+## Skills and tools
+Python • R • KNIME • pandas • tidyverse • scikit-learn • ggplot2 • plotly • RStudio • Jupyter • Git
+
+## Selected work
+- Behavioral data science portfolio
+- Oncology patient dashboard
+- Python foundations and applied exercises
+
+## Background
+- MSc in Behavioral Data Science
+- AI and Big Data in Health microcredentials
+- Clinical laboratory specialist with +15 years of experience
+- Psychology background
+
+## Open to
+- Data Science roles
+- Healthcare analytics roles
+- Behavioral and applied research positions
