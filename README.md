@@ -1,10 +1,10 @@
 # Lourdes Casado
 
-**Health Data Scientist in training. Clinical Laboratory Specialist by trade.**
+**Data Scientist | Behavioural & Health Analytics**
 
-+15 years working with real clinical data in diagnostic settings, now building the analytical layer on top of that experience. My background combines laboratory medicine, psychology, and data science, which gives me an angle on health data that is harder to fake from a purely technical starting point.
+I combine 16 years of hands-on experience with real clinical data and a background in psychology with formal training in data science and machine learning. That mix means I can work with the data, understand the domain, and communicate findings to both technical and non-technical audiences.
 
-I am currently finishing an MSc in Behavioural Data Science (Universitat de Barcelona) and a microcredential in AI & Big Data in Health (UAB / Hospital Parc Taulí). My work sits at the intersection of clinical practice, behavioural research, and applied statistics.
+Currently finishing an MSc in Behavioural Data Science (Universitat de Barcelona) and a microcredential in AI & Big Data in Health (UAB / Hospital Parc Taulí). My projects span behavioural modelling, clinical data visualisation, psychometric analysis, and predictive modelling — mostly in R and Python.
 
 ---
 
@@ -12,9 +12,9 @@ I am currently finishing an MSc in Behavioural Data Science (Universitat de Barc
 
 | Project | Description | Tools |
 |---|---|---|
-| [Behavioural Data Science Portfolio](https://github.com/Minikira85/behavioural-data-science-portfolio) | MSc projects covering behavioural analysis, longitudinal data, and regression modelling applied to health and social contexts | R, Python, tidyverse, pandas |
-| [Oncology Patient Dashboard](https://github.com/Minikira85/dashboard_pacientes_oncologicos) | Interactive clinical data dashboard built for oncology patient data, published via GitHub Pages | HTML, JavaScript |
-| Personality & Mental Health QoL *(in progress)* | TFM: predicting mental health-related quality of life from individual HEXACO personality items using Random Forest and GLASSO network analysis in a police cadet sample | R, Random Forest, qgraph |
+| [Behavioural Data Science Portfolio](https://github.com/Minikira85/behavioural-data-science-portfolio) | Regression modelling, longitudinal analysis, and behavioural data applied to health and social contexts | R, Python, tidyverse, pandas |
+| [Oncology Patient Dashboard](https://github.com/Minikira85/dashboard_pacientes_oncologicos) | Interactive dashboard for clinical oncology data, published via GitHub Pages | HTML, JavaScript |
+| Personality & Mental Health QoL *(in progress)* | TFM: predicting mental health-related quality of life from HEXACO personality items using Random Forest and GLASSO network analysis | R, Random Forest, qgraph |
 
 ---
 
