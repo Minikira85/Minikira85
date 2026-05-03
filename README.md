@@ -1,33 +1,35 @@
-# Hi, I'm Lourdes 👋
+# Lourdes Casado
 
-**Data Scientist / Behavioral Data Science | Healthcare analytics | Python, R, KNIME | Clinical lab background + MSc**
+Clinical Laboratory Specialist turned Health Data Scientist. 
+16 years working with real clinical data — now building the analytical layer on top of it.
 
-I’m passionate about using data to improve healthcare and support better decisions. My background combines clinical laboratory experience, psychology, and data science, which gives me a practical and human perspective on data work.
+Currently completing an MSc in Behavioural Data Science (Universitat de Barcelona) 
+and a microcredential in AI & Big Data in Health (UAB / Hospital Parc Taulí), 
+with a background in psychology that shapes how I approach behavioural and health data.
 
-## What I enjoy
-- Analyzing health and behavioral data
-- Building clean, reproducible workflows
-- Creating visualizations and dashboards
-- Learning from real-world data
+I work mainly in R and Python, and I'm interested in roles at the intersection 
+of clinical practice, behavioural science, and data analysis — particularly 
+in research and healthcare environments.
 
-## Skills and tools
-Python • R • KNIME • pandas • tidyverse • scikit-learn • ggplot2 • plotly • RStudio • Jupyter • Git
+---
 
-## Selected work
-- Behavioral data science portfolio
-- Oncology patient dashboard
-- Python foundations and applied exercises
+## Selected projects
 
-## Background
-- MSc in Behavioral Data Science
-- AI and Big Data in Health microcredentials
-- Clinical laboratory specialist with +15 years of experience
-- Psychology background
+| Project | Tools | Area |
+|---|---|---|
+| [Behavioural Data Science Portfolio](link) | R, Python, tidyverse, pandas | Behavioural analysis, regression, longitudinal data |
+| [Oncology Patient Dashboard](link) | HTML, JavaScript | Clinical data visualisation |
+| TFM: Personality & Mental Health Quality of Life *(in progress)* | R, Random Forest, GLASSO | Health data science, psychometrics |
 
-## Open to
-- Data Science roles
-- Healthcare analytics roles
-- Behavioral and applied research positions
+---
+
+## Technical stack
+
+`Python` `R` `KNIME` `pandas` `tidyverse` `scikit-learn` `ggplot2` `Jupyter` `RMarkdown` `Git`
+
+---
+
+[![LinkedIn](badge)](https://www.linkedin.com/in/lourdes-casado-behavioural-data)
 
 
 ## Tech stack
