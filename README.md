@@ -2,7 +2,7 @@
 
 **Health Data Scientist in training. Clinical Laboratory Specialist by trade.**
 
-16 years working with real clinical data in diagnostic settings — now building the analytical layer on top of that experience. My background combines laboratory medicine, psychology, and data science, which gives me an angle on health data that is harder to fake from a purely technical starting point.
++15 years working with real clinical data in diagnostic settings, now building the analytical layer on top of that experience. My background combines laboratory medicine, psychology, and data science, which gives me an angle on health data that is harder to fake from a purely technical starting point.
 
 I am currently finishing an MSc in Behavioural Data Science (Universitat de Barcelona) and a microcredential in AI & Big Data in Health (UAB / Hospital Parc Taulí). My work sits at the intersection of clinical practice, behavioural research, and applied statistics.
 
