@@ -2,7 +2,7 @@
 
 **Data Scientist | Behavioural & Health Analytics**
 
-I combine 16 years of hands-on experience with real clinical data and a background in psychology with formal training in data science and machine learning. That mix means I can work with the data, understand the domain, and communicate findings to both technical and non-technical audiences.
+I combine more than 15 years of hands-on experience with real clinical data and a background in psychology with formal training in data science and machine learning. That mix means I can work with the data, understand the domain, and communicate findings to both technical and non-technical audiences.
 
 Currently finishing an MSc in Behavioural Data Science (Universitat de Barcelona) and a microcredential in AI & Big Data in Health (UAB / Hospital Parc Taulí). My projects span behavioural modelling, clinical data visualisation, psychometric analysis, and predictive modelling mostly in R and Python.
 
