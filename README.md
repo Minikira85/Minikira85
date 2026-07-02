@@ -1,10 +1,9 @@
 # Lourdes Casado
-
 **Data Scientist | Behavioural & Health Analytics**
 
 I combine more than 18 years of hands-on experience with real clinical data and a background in psychology with formal training in data science and machine learning. That mix means I can work with the data, understand the domain, and communicate findings to both technical and non-technical audiences.
 
-Currently finishing an MSc in Behavioural Data Science (Universitat de Barcelona) and a microcredential in AI & Big Data in Health (UAB / Hospital Parc Taulí). My projects span behavioural modelling, clinical data visualisation, psychometric analysis, and predictive modelling mostly in R and Python.
+Currently finishing an MSc in Behavioural Data Science (Universitat de Barcelona) and a microcredential in AI & Big Data in Health (UAB / Hospital Parc Taulí). My projects span behavioural modelling, clinical data visualisation, psychometric analysis, and predictive modelling — mostly in R and Python.
 
 ---
 
@@ -14,6 +13,7 @@ Currently finishing an MSc in Behavioural Data Science (Universitat de Barcelona
 |---|---|---|
 | [Behavioural Data Science Portfolio](https://github.com/Minikira85/behavioural-data-science-portfolio) | Regression modelling, longitudinal analysis, and behavioural data applied to health and social contexts | R, Python, tidyverse, pandas |
 | [Oncology Patient Dashboard](https://github.com/Minikira85/dashboard_pacientes_oncologicos) | Interactive dashboard for clinical oncology data, published via GitHub Pages | HTML, JavaScript |
+| [Cholesterol Prediction — KNIME](https://github.com/Minikira85/cholesterol-prediction-knime) | Linear regression on real clinical lab data (933 ambulatory patients) predicting total cholesterol from glucose, age, and sex | KNIME, Clinical data |
 | Personality & Mental Health QoL *(in progress)* | TFM: predicting mental health-related quality of life from HEXACO personality items using Random Forest and GLASSO network analysis | R, Random Forest, qgraph |
 
 ---
@@ -31,4 +31,3 @@ Currently finishing an MSc in Behavioural Data Science (Universitat de Barcelona
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lourdes%20Casado-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourdes-casado-behavioural-data)
-
